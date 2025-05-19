@@ -1,6 +1,9 @@
-# 🎓 Study Color - Çocuklar İçin Eğitici Oyun Uygulaması 🎓
+# 🎓 Study Color - Çocuklar İçin Eğitici Oyun Uygulaması 
 
 Study Color, kullanıcıların vücut parçalarını, renkleri ve sayıları eğlenceli ve etkileşimli oyunlar aracılığıyla öğrenmelerini sağlayan modern bir Android uygulamasıdır. Jetpack Compose ile geliştirilen bu uygulama, sezgisel ve duyarlı bir kullanıcı arayüzü sunarak her yaştan kullanıcı için öğrenme deneyimini keyifli hale getirir. Uygulama, farklı ekran boyutlarına ve yönlendirmelere uyum sağlayan dinamik bir tasarıma sahiptir ve sesli geri bildirimlerle öğrenmeyi destekler.
+
+## Yakında Google Play'de!
+Study Color uygulaması yakında Google Play Store'da yayınlanacaktır. Takipte kalın!
 
 ## Kullanılan Teknolojiler ve Kütüphaneler
 
